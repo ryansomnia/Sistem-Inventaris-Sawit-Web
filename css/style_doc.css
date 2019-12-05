@@ -1,0 +1,56 @@
+#content {
+	margin-left: 230px;
+	padding: 20px 10px 0 0;
+	margin-bottom:2px;
+	border:1px solid #F95;
+}
+#content p {
+	font-size: 85%;
+	line-height: 1.8em;
+	padding-left: 2em;
+}
+
+h2 {
+	font:Arial, Geneva, sans-serif;
+	color:#000;
+	background-color: transparent;
+}
+table {
+	font-family:Arial, Geneva, sans-serif; 
+	font-size: 9pt;
+	border-collapse: collapse;
+	
+}
+
+th{
+	color:#000;
+	font-size: 8pt;
+	border-collapse: collapse;	
+	
+}
+
+
+
+td{
+	padding: 0.2em;
+	vertical-align: top;
+	border-collapse: collapse;
+}
+
+hr.style1 {
+    border: 0;
+    height: 1px;
+    background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    background-image:    -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    background-image:     -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    background-image:      -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+}
+ 
+hr.style2 {
+    border: 0;
+    height: 1px;
+    background-image: -webkit-linear-gradient(left, #dadada, #333, #dadada);
+    background-image:    -moz-linear-gradient(left, #dadada, #333, #dadada);
+    background-image:     -ms-linear-gradient(left, #dadada, #333, #dadada);
+    background-image:      -o-linear-gradient(left, #dadada, #333, #dadada);
+}
